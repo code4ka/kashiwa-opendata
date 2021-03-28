@@ -3,7 +3,10 @@
 import numpy as np
 import pandas as pd
 import re
+from pydams import DAMS
+from pydams.helpers import pretty_print
 
+DAMS.init_dams()
 
 def erase_unnecessary(facility_data):
     facility_data_cut = facility_data[list(facility_data.columns)[4:facility_data.shape[1]]]
@@ -30,8 +33,11 @@ zaitaku.insert(4, "種別", "在宅医療支援診療所")
 
 export_data = pd.concat([hospital, oushin, drug_store, dental, zaitaku])
 export_data = erase_unnecessary(export_data)
+export_data.insert(3, "住所(緯度経度)", "")
 
 for i in range(export_data.shape[0]):
     export_data.iloc[i, 2] = re.sub('^柏市', "千葉県柏市", export_data.iloc[i, 2])
+    address_lonlat = DAMS.geocode_simplify(export_data.iloc[i, 2])
+    export_data.iloc[i, 3] = str(address_lonlat['candidates'][0]['y']) + ',' + str(address_lonlat['candidates'][0]['x'])
 
 export_data.to_csv("../reshaped_data/home_health.csv", index=False)
