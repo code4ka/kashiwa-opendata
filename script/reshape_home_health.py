@@ -31,11 +31,6 @@ zaitaku.insert(4, "種別", "在宅医療支援診療所")
 export_data = pd.concat([hospital, oushin, drug_store, dental, zaitaku])
 export_data = erase_unnecessary(export_data)
 
-header_fin = export_data.columns
-header_fin = [header_fin[9]] + header_fin[0:8]
-
-# export_data = export_data.loc[:, ['種別', '施設名', '住所', '電話番号', 'URL']]
-
 for i in range(export_data.shape[0]):
     export_data.iloc[i, 2] = re.sub('^柏市', "千葉県柏市", export_data.iloc[i, 2])
 
