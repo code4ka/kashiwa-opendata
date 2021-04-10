@@ -1,0 +1,142 @@
+番号,名称,所在地,所在地2,併設,備蓄倉庫,防災用簡易井戸,耐震性井戸付貯水,耐震性貯水槽,広域避難場所
+1,柏市立柏高等学校,船戸山高野325-1,千葉県柏市船戸山高野325-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+2,田中北小学校,大青田1536-1,千葉県柏市大青田1536-1,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+3,十余二小学校,柏の葉4-4-1,千葉県柏市柏の葉4-4-1,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+4,田中小学校,大室1193-3,千葉県柏市大室1193-3,,FALSE,FALSE,FALSE,FALSE,FALSE
+5,柏の葉小学校,十余二348-51 中央404街区1,千葉県柏市十余二348-51 中央404街区1,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+6,田中中学校,大室249-9,千葉県柏市大室249-9,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+7,柏市青少年センター,十余二313-92,千葉県柏市十余二313-92,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+8,県立柏の葉高等学校,柏の葉6-1,千葉県柏市柏の葉6-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+9,中十余二第一公園,柏の葉1-10,千葉県柏市柏の葉1-10,,FALSE,FALSE,FALSE,FALSE,FALSE
+10,中十余二第二公園,柏の葉2-16,千葉県柏市柏の葉2-16,,FALSE,FALSE,FALSE,FALSE,FALSE
+11,花野井小学校,花野井1652-34,千葉県柏市花野井1652-34,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+12,柏ビレジ近隣公園,大室1311-6,千葉県柏市大室1311-6,,FALSE,FALSE,FALSE,FALSE,FALSE
+13,北部緑地,船戸1805,千葉県柏市船戸1805,,FALSE,FALSE,FALSE,FALSE,FALSE
+14,旧吉田家住宅歴史公園（芝生広場）,花野井974-1,千葉県柏市花野井974-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+15,吉田記念テニス研修センター,花野井936-1,千葉県柏市花野井936-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+16,柏の葉中学校,十余二337-93 中央405街区1,千葉県柏市十余二337-93 中央405街区1,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+17,北部近隣センター,大青田1541-2,千葉県柏市大青田1541-2,,FALSE,FALSE,FALSE,FALSE,FALSE
+18,柏たなか駅前公園,大室1-4,千葉県柏市大室1-4,,FALSE,FALSE,FALSE,FALSE,FALSE
+19,柏寿荘,船戸山高野535,千葉県柏市船戸山高野535,,FALSE,FALSE,FALSE,FALSE,FALSE
+20,西原小学校,西原4-17-1,千葉県柏市西原4-17-1,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+21,西原中学校,西原6-13-1,千葉県柏市西原6-13-1,防災備蓄倉庫 防災用簡易井戸,TRUE,TRUE,FALSE,FALSE,FALSE
+22,流通経済大学附属柏高等学校,十余二1-20,千葉県柏市十余二1-20,,FALSE,FALSE,FALSE,FALSE,FALSE
+23,富勢西小学校,布施84-2,千葉県柏市布施84-2,防災備蓄倉庫（教室） 防災用簡易井戸,TRUE,TRUE,FALSE,FALSE,FALSE
+24,県立柏高等学校,布施254,千葉県柏市布施254,,FALSE,FALSE,FALSE,FALSE,FALSE
+25,あけぼの山公園,布施1940,千葉県柏市布施1940,,FALSE,FALSE,FALSE,FALSE,FALSE
+26,富勢東小学校,布施2176-2,千葉県柏市布施2176-2,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+27,富勢中学校,根戸467-1,千葉県柏市根戸467-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+28,富勢小学校,布施925-1,千葉県柏市布施925-1,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+29,富勢運動場,根戸507,千葉県柏市根戸507,,FALSE,FALSE,FALSE,FALSE,FALSE
+30,北柏第二公園,北柏3-9,千葉県柏市北柏3-9,,FALSE,FALSE,FALSE,FALSE,FALSE
+31,布施第二公園,布施新町2-4,千葉県柏市布施新町2-4,,FALSE,FALSE,FALSE,FALSE,FALSE
+32,北柏第三公園,北柏2-9,千葉県柏市北柏2-9,耐震性貯水槽,FALSE,FALSE,FALSE,TRUE,FALSE
+33,北柏ふるさと公園,呼塚新田270-1,千葉県柏市呼塚新田270-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+34,柏市根戸近隣センター,根戸467-178,千葉県柏市根戸467-178,,FALSE,FALSE,FALSE,FALSE,FALSE
+35,富勢西小学校,布施84-2,千葉県柏市布施84-2,防災備蓄倉庫（教室） 防災用簡易井戸,TRUE,TRUE,FALSE,FALSE,FALSE
+36,県立柏高等学校,布施254,千葉県柏市布施254,,FALSE,FALSE,FALSE,FALSE,FALSE
+37,あけぼの山公園,布施1940,千葉県柏市布施1940,,FALSE,FALSE,FALSE,FALSE,FALSE
+38,富勢東小学校,布施2176-2,千葉県柏市布施2176-2,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+39,富勢中学校,根戸467-1,千葉県柏市根戸467-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+40,富勢小学校,布施925-1,千葉県柏市布施925-1,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+41,富勢運動場,根戸507,千葉県柏市根戸507,,FALSE,FALSE,FALSE,FALSE,FALSE
+42,北柏第二公園,北柏3-9,千葉県柏市北柏3-9,,FALSE,FALSE,FALSE,FALSE,FALSE
+43,布施第二公園,布施新町2-4,千葉県柏市布施新町2-4,,FALSE,FALSE,FALSE,FALSE,FALSE
+44,北柏第三公園,北柏2-9,千葉県柏市北柏2-9,耐震性貯水槽,FALSE,FALSE,FALSE,TRUE,FALSE
+45,北柏ふるさと公園,呼塚新田270-1,千葉県柏市呼塚新田270-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+46,柏市根戸近隣センター,根戸467-178,千葉県柏市根戸467-178,,FALSE,FALSE,FALSE,FALSE,FALSE
+47,松葉第一小学校,松葉町5-3,千葉県柏市松葉町5-3,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+48,松葉第二小学校,松葉町2-16,千葉県柏市松葉町2-16,,FALSE,FALSE,FALSE,FALSE,FALSE
+49,松葉中学校,松葉町3-14,千葉県柏市松葉町3-14,,FALSE,FALSE,FALSE,FALSE,FALSE
+50,松葉第一近隣公園,松葉町4-6,千葉県柏市松葉町4-6,,FALSE,FALSE,FALSE,FALSE,FALSE
+51,松葉第二近隣公園,松葉町4-13,千葉県柏市松葉町4-13,,FALSE,FALSE,FALSE,FALSE,FALSE
+52,柏第四小学校,松ケ崎1182-9,千葉県柏市松ケ崎1182-9,,FALSE,FALSE,FALSE,FALSE,FALSE
+53,高田小学校,高田376-3,千葉県柏市高田376-3,耐震性貯水槽 防災備蓄倉庫,TRUE,FALSE,FALSE,TRUE,FALSE
+54,柏第五中学校,高田919-1,千葉県柏市高田919-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+55,県立柏中央高等学校,松ケ崎884-1,千葉県柏市松ケ崎884-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+56,松ヶ崎中央公園,大山台1,千葉県柏市大山台1,,FALSE,FALSE,FALSE,FALSE,FALSE
+57,柏第六小学校,豊四季台4-2-1,千葉県柏市豊四季台4-2-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+58,柏第七小学校,篠籠田723-1,千葉県柏市篠籠田723-1,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+59,柏中学校,明原4-1-1,千葉県柏市明原4-1-1,防災備蓄倉庫 耐震性井戸付貯水装置,TRUE,FALSE,TRUE,FALSE,FALSE
+60,柏第三中学校,篠籠田987-1,千葉県柏市篠籠田987-1,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+61,老人いこいの家,豊四季台1-1-114,千葉県柏市豊四季台1-1-114,,FALSE,FALSE,FALSE,FALSE,FALSE
+62,柏西口第一公園,明原3-1,千葉県柏市明原3-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+63,豊四季庚塚緑地,豊四季224-3,千葉県柏市豊四季224-3,,FALSE,FALSE,FALSE,FALSE,FALSE
+64,柏第一小学校,あけぼの1丁目7-6,千葉県柏市あけぼの1丁目7-6,,FALSE,FALSE,FALSE,FALSE,FALSE
+65,柏公園,柏565,千葉県柏市柏565,,FALSE,FALSE,FALSE,FALSE,FALSE
+66,柏第五小学校,柏932-7,千葉県柏市柏932-7,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+67,日本体育大学柏高等学校,戸張944,千葉県柏市戸張944,,FALSE,FALSE,FALSE,FALSE,FALSE
+68,柏ふるさと公園,柏下4,千葉県柏市柏下4,,FALSE,FALSE,FALSE,FALSE,FALSE
+69,戸張地区公園,戸張994-2,千葉県柏市戸張994-2,,FALSE,FALSE,FALSE,FALSE,FALSE
+70,北千葉導水ビジターセンター（北千葉第二機場）,戸張新田26,千葉県柏市戸張新田26,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+71,柏市中央公民館,柏5-8-12,千葉県柏市柏5-8-12,,FALSE,FALSE,FALSE,FALSE,FALSE
+72,柏市民文化会館,柏下107,千葉県柏市柏下107,,FALSE,FALSE,FALSE,FALSE,FALSE
+73,柏市中央体育館,柏下73,千葉県柏市柏下73,,FALSE,FALSE,FALSE,FALSE,FALSE
+74,アミュゼ柏,柏6-2-22,千葉県柏市柏6-2-22,,FALSE,FALSE,FALSE,FALSE,FALSE
+75,柏第二小学校,豊四季310,千葉県柏市豊四季310,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+76,豊四季中学校,豊四季287-7,千葉県柏市豊四季287-7,,FALSE,FALSE,FALSE,FALSE,FALSE
+77,豊四季庚塚緑地,豊四季224-3,千葉県柏市豊四季224-3,,FALSE,FALSE,FALSE,FALSE,FALSE
+78,県立東葛飾高等学校,旭町3-2-1,千葉県柏市旭町3-2-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+79,気象大学校,旭町7-4-81,千葉県柏市旭町7-4-81,,FALSE,FALSE,FALSE,FALSE,FALSE
+80,旭東小学校,旭町5-3-9,千葉県柏市旭町5-3-9,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+81,旭小学校,旭町6-5-17,千葉県柏市旭町6-5-17,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+82,柏第二中学校,弥生町6-6,千葉県柏市弥生町6-6,,FALSE,FALSE,FALSE,FALSE,FALSE
+83,関場町ゲートボール場,関場町842-2,千葉県柏市関場町842-2,防災備蓄倉庫 耐震性井戸付貯水装置,TRUE,FALSE,TRUE,FALSE,FALSE
+84,豊小学校,豊四季610-2,千葉県柏市豊四季610-2,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+85,柏第三小学校,若葉町4-54,千葉県柏市若葉町4-54,防災備蓄倉庫 耐震性井戸付貯水装置,TRUE,FALSE,TRUE,FALSE,FALSE
+86,柏第八小学校,永楽台2-8-1,千葉県柏市永楽台2-8-1,防災備蓄倉庫（教室） 防災用簡易井戸,TRUE,TRUE,FALSE,FALSE,FALSE
+87,柏第四中学校,名戸ヶ谷1-6-8,千葉県柏市名戸ヶ谷1-6-8,耐震性貯水装置,FALSE,FALSE,FALSE,TRUE,FALSE
+88,永楽台近隣公園,永楽台2-11,千葉県柏市永楽台2-11,,FALSE,FALSE,FALSE,FALSE,FALSE
+89,日立台公園,日立台1-2,千葉県柏市日立台1-2,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+90,名戸ケ谷小学校,名戸ケ谷474-1,千葉県柏市名戸ケ谷474-1,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+91,土中学校,増尾1-23-1,千葉県柏市増尾1-23-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+92,土小学校,増尾4-4-1,千葉県柏市増尾4-4-1,防災備蓄倉庫（教室） 防災用簡易井戸,TRUE,TRUE,FALSE,FALSE,FALSE
+93,県立柏南高等学校,増尾1705,千葉県柏市増尾1705,,FALSE,FALSE,FALSE,FALSE,FALSE
+94,芝浦工業大学柏中学高等学校,増尾700,千葉県柏市増尾700,,FALSE,FALSE,FALSE,FALSE,FALSE
+95,中原小学校,中原1821-1,千葉県柏市中原1821-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+96,中原中学校,中原1816-2,千葉県柏市中原1816-2,,FALSE,FALSE,FALSE,FALSE,FALSE
+97,増尾西小学校,増尾台3-5-9,千葉県柏市増尾台3-5-9,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+98,廣池学園,光ケ丘2-1-1,千葉県柏市光ケ丘2-1-1,防災用簡易井戸 防災備蓄倉庫,TRUE,TRUE,FALSE,FALSE,TRUE
+99,光ケ丘小学校,流山市向小金4-20-1,千葉県柏市流山市向小金4-20-1,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+100,光ケ丘中学校,光ケ丘4-23-1,千葉県柏市光ケ丘4-23-1,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+101,逆井小学校,逆井452-2,千葉県柏市逆井452-2,防災備蓄倉庫（教室）,TRUE,FALSE,FALSE,FALSE,FALSE
+102,逆井中学校,逆井555,千葉県柏市逆井555,,FALSE,FALSE,FALSE,FALSE,FALSE
+103,県立柏陵高等学校,逆井444-1,千葉県柏市逆井444-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+104,南部中学校,南増尾6-16-1,千葉県柏市南増尾6-16-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+105,土南部小学校,新逆井1-10-1,千葉県柏市新逆井1-10-1,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+106,南部公園,新逆井2-5,千葉県柏市新逆井2-5,,FALSE,FALSE,FALSE,FALSE,FALSE
+107,並木第二公園,南逆井2-2,千葉県柏市南逆井2-2,耐震性貯水槽,FALSE,FALSE,FALSE,TRUE,FALSE
+108,柏リフレッシュ公園リフレッシュプラザ柏,南増尾58-3,千葉県柏市南増尾58-3,防災備蓄倉庫 耐震性貯水槽,TRUE,FALSE,FALSE,TRUE,FALSE
+109,藤心小学校,藤心880-1,千葉県柏市藤心880-1,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+110,酒井根小学校,酒井根19-2,千葉県柏市酒井根19-2,耐震性井戸付貯水装置,FALSE,FALSE,TRUE,FALSE,FALSE
+111,酒井根西小学校,酒井根662-1,千葉県柏市酒井根662-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+112,酒井根東小学校,酒井根1-2-1,千葉県柏市酒井根1-2-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+113,酒井根中学校,酒井根1-3-1,千葉県柏市酒井根1-3-1,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+114,酒井根下田の森緑地,酒井根6-24,千葉県柏市酒井根6-24,,FALSE,FALSE,FALSE,FALSE,FALSE
+115,手賀東小学校,手賀479-7,千葉県柏市手賀479-7,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+116,手賀中学校,柳戸690,千葉県柏市柳戸690,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+117,手賀西小学校,泉541,千葉県柏市泉541,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+118,県立沼南高等学校,岩井678-3,千葉県柏市岩井678-3,,FALSE,FALSE,FALSE,FALSE,FALSE
+119,風早北部小学校,大井1854-1,千葉県柏市大井1854-1,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+120,大津ケ丘中学校,大津ケ丘1-25,千葉県柏市大津ケ丘1-25,防災備蓄倉庫 耐震性貯水槽,TRUE,FALSE,FALSE,TRUE,FALSE
+121,大津ケ丘第一小学校,大津ケ丘3-50,千葉県柏市大津ケ丘3-50,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+122,大津ケ丘第二小学校,大津ケ丘4-8,千葉県柏市大津ケ丘4-8,,FALSE,FALSE,FALSE,FALSE,FALSE
+123,風早中学校,塚崎1319,千葉県柏市塚崎1319,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+124,大津ケ丘中央公園,大津ケ丘2-1,千葉県柏市大津ケ丘2-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+125,風早公園,風早2-1,千葉県柏市風早2-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+126,二松學舎大学、二松學舎大学附属柏中学校・高等学校,大井2590,千葉県柏市大井2590,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+127,沼南老人福祉センターいこい荘,塚崎1356,千葉県柏市塚崎1356,,FALSE,FALSE,FALSE,FALSE,FALSE
+128,風早南部小学校,藤ヶ谷新田111-2,千葉県柏市藤ヶ谷新田111-2,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+129,高柳小学校,高南台3-14-12,千葉県柏市高南台3-14-12,防災用簡易井戸,FALSE,TRUE,FALSE,FALSE,FALSE
+130,高柳中学校,高南台1-1-1,千葉県柏市高南台1-1-1,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+131,県立沼南高柳高等学校,高柳995,千葉県柏市高柳995,,FALSE,FALSE,FALSE,FALSE,FALSE
+132,高柳西小学校,しいの木台3-2,千葉県柏市しいの木台3-2,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,FALSE
+133,藤ヶ谷区民館,藤ヶ谷558,千葉県柏市藤ヶ谷558,,FALSE,FALSE,FALSE,FALSE,FALSE
+134,しいの木公園,しいの木台2-11-1,千葉県柏市しいの木台2-11-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+135,海上自衛隊下総航空基地,藤ケ谷1614-1,千葉県柏市藤ケ谷1614-1,,FALSE,FALSE,FALSE,FALSE,FALSE
+136,株式会社日立製作所 柏総合グランド,日立台1丁目2,,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,TRUE
+137,県立柏の葉公園,柏の葉4丁目1,,"防災備蓄倉庫
+耐震性井戸付貯水装置",TRUE,FALSE,TRUE,FALSE,TRUE
+138,中原ふれあい防災公園,中原1丁目28,,"防災用簡易井戸
+耐震性貯水槽",FALSE,TRUE,FALSE,TRUE,TRUE
+139,大堀川防災レクリエーション公園,篠籠田119-3,,防災備蓄倉庫,TRUE,FALSE,FALSE,FALSE,TRUE
