@@ -1,4 +1,4 @@
-no,name,address,phone,area_flood,area_landslide,area_storm_surge,area_earthquake,area_tsunami,area_large_fire,area_inland_flooding,area_volcanic_activity,shelter_designation,community_area,shelter_total floor_area,shelter_capacity,shelter_capacity_2,site_effective,site_capacity,latitude,longitude
+no,name,address,phone,area_flood,area_landslide,area_storm_surge,area_earthquake,area_tsunami,area_large_fire,area_inland_flooding,area_volcanic_activity,shelter_designation,community_area,shelter_total floor_area,shelter_capacity,shelter_capacity_2,site_effective,site_capacity,longitude,latitude
 1,柏市立田中北小学校,千葉県柏市大青田1536番地1,04-7131-4849,1,1,3,1,3,1,1,3,1,田中・柏の葉,772,135,270,10309,5154,139.941116,35.914597
 2,柏市立十余二小学校,千葉県柏市柏の葉四丁目4番地1,04-7133-2555,1,1,3,1,3,1,1,3,1,田中・柏の葉,826,144,289,7362,3681,139.93367,35.897629
 3,柏市立田中小学校,千葉県柏市大室1193番地3,04-7131-5719,1,1,3,1,3,1,1,3,1,田中・柏の葉,610,106,213,12339,6169,139.963684,35.899609
